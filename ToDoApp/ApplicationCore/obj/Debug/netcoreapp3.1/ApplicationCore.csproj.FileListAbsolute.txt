@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\ToDoApp WinForm\ToDoApp\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ToDoApp WinForm\ToDoApp\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ToDoApp WinForm\ToDoApp\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ToDoApp WinForm\ToDoApp\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Dell\Desktop\ToDoApp WinForm\ToDoApp\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Dell\Desktop\ToDoApp WinForm\ToDoApp\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Dell\Desktop\ToDoApp WinForm\ToDoApp\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Dell\Desktop\ToDoApp WinForm\ToDoApp\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Dell\Desktop\ToDoApp WinForm\ToDoApp\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
